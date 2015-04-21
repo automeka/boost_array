@@ -1,0 +1,3 @@
+module boost_array {
+	header "boost/array.hpp"
+}
